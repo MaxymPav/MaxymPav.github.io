@@ -95,7 +95,3 @@ function getOrders(){
     )
 }
 getOrders();
-
-Admin.sayHello();
-
-console.log( Admin.test )
